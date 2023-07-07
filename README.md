@@ -21,7 +21,7 @@
 </br>
 <br>
 <div>
-<h1>프로젝트 진행과정 </h1>
+<h1>프로젝트 및 수행 내용 진행과정 </h1>
 
 ![프로젝트 전체 진행 과정](./images/procedure1.png)
 ![수행 내용 진행 과정](./images/procedure2.png)
